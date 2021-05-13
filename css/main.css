@@ -1,0 +1,28 @@
+/* Inserta tu codigo aqui */
+#verde{
+    background-image: url("../img/fotos/fondo.jpg");
+}
+
+#blog{
+    background-image: url("../img/fotos/fondo2.jpg");
+}
+
+#seed{
+    background-image: url("../img/fotos/semilla.jpg");
+    min-height: 400px;
+}
+
+#text{
+    width: 1092px;
+    margin: auto;
+}
+
+nav ul li a p{
+    font-family: OpenSans-Bold;
+    color: #cccbcb;
+}
+
+section .caja{
+    border: white 1px solid;
+    height: 15rem;
+}
